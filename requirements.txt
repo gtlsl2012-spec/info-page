@@ -1,0 +1,5 @@
+streamlit>=1.20
+pandas
+requests
+python-dotenv
+google-genai>=0.1.0
